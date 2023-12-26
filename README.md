@@ -1,6 +1,5 @@
 # Machine Learning Basics
-
-Welcome to the Machine Learning Basics repository! This collection contains open-source code implementations of fundamental methods used in machine learning.
+This collection contains open-source code implementations of fundamental methods used in machine learning.
 
 ## Table of Contents
 
@@ -47,8 +46,6 @@ The code is organized into directories based on different machine learning metho
 
 ## Contributing
 
-If you'd like to contribute to this repository by adding new methods, improving existing code, or fixing bugs, please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+If you'd like to contribute to this repository by adding new methods, improving existing code, or fixing bugs, please message me.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE), allowing you to use the code freely for your purposes. Refer to the license file for more details.
