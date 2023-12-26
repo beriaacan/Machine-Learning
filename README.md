@@ -30,7 +30,7 @@ The code is organized into directories based on different machine learning metho
 
 ### Gradient Descent
 
-[Gradient Descent](Gradient_Descent/README.md) is a fundamental optimization algorithm widely used in machine learning for finding the minimum of a function.
+[Gradient Descent](Gradient Descent/README.md) is a fundamental optimization algorithm widely used in machine learning for finding the minimum of a function.
 
 ### K-Nearest Neighbors (KNN)
 
