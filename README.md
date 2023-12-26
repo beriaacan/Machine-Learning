@@ -30,19 +30,19 @@ The code is organized into directories based on different machine learning metho
 
 ### Gradient Descent
 
-[Gradient Descent](gradient_descent/README.md) is a fundamental optimization algorithm widely used in machine learning for finding the minimum of a function.
+[Gradient Descent](Gradient_Descent/README.md) is a fundamental optimization algorithm widely used in machine learning for finding the minimum of a function.
 
 ### K-Nearest Neighbors (KNN)
 
-[K-Nearest Neighbors (KNN)](knn/README.md) is a simple and effective classification and regression algorithm based on the idea of similarity.
+[K-Nearest Neighbors (KNN)](K-Nearest Neighbors (KNN)/README.md) is a simple and effective classification and regression algorithm based on the idea of similarity.
 
 ### Naive Bayes
 
-[Naive Bayes](naive_bayes/README.md) is a probabilistic algorithm commonly used for classification tasks, especially in natural language processing.
+[Naive Bayes](Naive_Bayes/README.md) is a probabilistic algorithm commonly used for classification tasks, especially in natural language processing.
 
 ### Perceptron
 
-[Perceptron](perceptron/README.md) is a basic building block of neural networks and serves as a binary classifier.
+[Perceptron](Perceptron/README.md) is a basic building block of neural networks and serves as a binary classifier.
 
 ## Contributing
 
